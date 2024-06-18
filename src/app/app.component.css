@@ -157,3 +157,12 @@ h6.font-card {
 .fw-semibold.font-card, .color-h3 {
   font-size: 32px;
 }
+.font-warning {
+  font-size: 37px !important;
+}
+.underline {
+  text-decoration: underline;
+}
+.bg-last-section {
+background-color: #d4d4d4;
+}

@@ -75,7 +75,7 @@ h3 {
   'opsz' 48
 }
 h3>span, .div-position {
-  font-size: 16px;
+  font-size: 16px !important;
   line-height: 1;
 }
 .moody-icon {
@@ -148,4 +148,12 @@ color: #f2f2f4 !important;
 }
 h6.font-card {
   font-size: 24px;
+}
+.btn-colors {
+  background-color: #15252d !important;
+  color: #f2f2f4 !important;
+  font-size: 14px !important;
+}
+.fw-semibold.font-card {
+  font-size: 32px;
 }

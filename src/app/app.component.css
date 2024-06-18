@@ -74,7 +74,7 @@ h3 {
   'GRAD' 0,
   'opsz' 48
 }
-h3>span {
+h3>span, .div-position {
   font-size: 16px;
   line-height: 1;
 }
@@ -120,4 +120,32 @@ button.btn.btn-lg.mt-3 {
 }
 .font {
   color: #f2f2f4 !important;
+}
+.border-info {
+  border: 50px !important;
+}
+.carousel-indicators [data-bs-target="#carouselslides3"] {
+  border-radius: 50%;
+  width: 15px;
+  height: 15px;
+}
+.div-position {
+  top: 12%;
+  left: 45%;
+}
+.border-black:hover {
+background-color: #516972 !important;
+color: #f2f2f4 !important;
+
+}
+.btn.border-2.fw-bold {
+  font-size: 18px;
+  line-height: unset;
+
+}
+.font-card {
+  color: #428087;
+}
+h6.font-card {
+  font-size: 24px;
 }
